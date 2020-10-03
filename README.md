@@ -2,11 +2,11 @@
 
 ### 1. My Conclusion Analysis Report - Jupyter Notebook & IBM Watson
 * [311 complaint Newyorker Analysis](https://OpenWorseLegacysystem.timurutimurusy.repl.co)
-* [Data Visualization Image](https://github.com/miedlev/kaggle---San-Francisco-Crime-Classfication/tree/main/Image)
+* [Data Visualization Image](https://github.com/miedlev/IBM-Capstone-Project-New-Yorker-complaints/tree/main/Image)
 
 
 ### 2. About Data : Using Dataset 
-* This dataset is available at (https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9). You can download part of this data by using SODA API.
+* Base dataset is available at [This site](https://data.cityofnewyork.us/Social-Services/311-Service-Requests-from-2010-to-Present/erm2-nwe9). You can download part of this data by using SODA API.
 
 Download only the data that is related to the Department of Housing Preservation and Development. Also, restrict your data to the limited number of fields. Otherwise, your data size will be unnecessarily large, and it might not work in the Watson Studio environment. Too much data can also be very slow to process and analyze.
 
